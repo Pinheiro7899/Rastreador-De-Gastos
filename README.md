@@ -1,8 +1,4 @@
-Está quase lá! A estrutura e o conteúdo estão corretos, mas faltou um pouco de formatação para o Markdown ficar mais legível no GitHub e em editores que suportam Markdown.
 
-Aqui vai uma versão formatada para você copiar, já com títulos, quebras de linha e blocos de código:
-
-````markdown
 # Rastreador-De-Gastos
 
 ## Objetivo
@@ -29,9 +25,7 @@ Este projeto em Java consiste em um sistema simples para registrar e acompanhar 
 
 4. Execute o programa principal:
 
-   ```bash
-   java RastreadorDeGastos
-   ```
+
 
 ---
 
